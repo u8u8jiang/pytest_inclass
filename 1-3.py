@@ -1,2 +1,2 @@
-n = int(input())
-k = input
+name = input()
+print("Hello, "+name+"!")
