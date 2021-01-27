@@ -4,7 +4,4 @@ x3 = int(input())
 x4 = int(input())
 x5 = int(input())
 
-if :
-    print("YES")
-else:
-    print("NO")
+print(min(x1,x2,x3,x4,x5))

@@ -3,8 +3,8 @@ b = int(input())
 c = int(input())
 
 if b==c:
-    print(a)
-elif a=c:
-    print(b)
+    print(1)
+elif a==c:
+    print(2)
 else:
-    print(c)
+    print(3)

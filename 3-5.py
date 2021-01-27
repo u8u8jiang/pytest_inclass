@@ -1,7 +1,7 @@
-a = int(print())
-b = int(print())
-if a*b > 0:
-    print('NO')
-else:
+a = int(input())
+b = int(input())
+if a*b < 0:
     print('YES')
+else:
+    print('NO')
     
