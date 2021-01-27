@@ -1,5 +1,5 @@
 row, col =  [int(i) for i in input().split()]
-a = [int(j) for j in input().split()] for i in range(row)
+a = [[int(j) for j in input().split()] for i in range(row)]
 mul = int(input())
 
 for i in range(row):
