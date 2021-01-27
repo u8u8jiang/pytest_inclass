@@ -1,5 +1,5 @@
 
-s = import()
+s = input()
 a = s.find('p') 
 if a == -1:
     print(-2)
